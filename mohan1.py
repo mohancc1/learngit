@@ -1,7 +1,9 @@
 devops roadmap
 
-python
-
 os
 
 virtualization
+
+linux
+
+networking
